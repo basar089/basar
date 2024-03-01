@@ -1,3 +1,3 @@
 # basar
-This is my frist Github Repository
-author- Basar
+This is my frist Github Repository.
+Author- Basar
